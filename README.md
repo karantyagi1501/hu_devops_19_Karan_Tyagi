@@ -1,5 +1,5 @@
 <head>
-  <h1>I am mentioning all the steps which i have done here<h1>
+  <h1>I am mentioning all the steps which i have done here</h1>
     
    <p>1.) First i have created a git assignment directory and after this i have change my current directory to git assignment directory
        2.) Then i have created a index.html file for checking password lessauthentication
